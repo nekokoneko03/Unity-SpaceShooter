@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57329b1e578e5814ca244bd5cc4b19bc, type: 3}
+  m_Name: TEST
+  m_EditorClassIdentifier: 
+  maxHp: 2
+  speed: 0.9
+  onDeathEffects:
+  - {fileID: 11400000, guid: 64db55f2e5e6a3e42bb38df0a2fad057, type: 2}
+  weapon: {fileID: 7654400790393330109, guid: 2658c0bc1a6db4c48ac6a2f08cf8f28f, type: 3}
