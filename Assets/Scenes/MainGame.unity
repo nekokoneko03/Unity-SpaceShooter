@@ -978,5 +978,11 @@ MonoBehaviour:
   - enemies:
     - {fileID: 3868211905943096202, guid: 9bb1a28296112cc479224c528aef8651, type: 3}
     - {fileID: 3868211905943096202, guid: 9bb1a28296112cc479224c528aef8651, type: 3}
+  - enemies:
+    - {fileID: 3868211905943096202, guid: 9bb1a28296112cc479224c528aef8651, type: 3}
+    - {fileID: 3868211905943096202, guid: 9bb1a28296112cc479224c528aef8651, type: 3}
+  - enemies:
+    - {fileID: 3868211905943096202, guid: 9bb1a28296112cc479224c528aef8651, type: 3}
+    - {fileID: 3868211905943096202, guid: 9bb1a28296112cc479224c528aef8651, type: 3}
   _currentWaveCount: 0
   _maxWaveCount: 0

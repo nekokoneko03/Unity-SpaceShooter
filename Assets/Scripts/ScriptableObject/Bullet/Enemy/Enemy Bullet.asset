@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: Enemy Bullet
   m_EditorClassIdentifier: 
   bulletPrefab: {fileID: 682063809627757090, guid: 3d51ffa983ce1d749ae3936772840b73, type: 3}
-  bulletMove: {fileID: 0}
+  bulletMove: {fileID: 11400000, guid: a9d80cae01d60ff439a4a74f65512730, type: 2}
   bulletDamage: 1
   bulletSpeed: 4
-  bulletPenetration: 1
-  bulletExsitsTime: 5
-  bulletStopDelay: 0.25
-  bulletResumeMoveDelay: 0.25
+  bulletPenetration: 0
+  bulletExsitsTime: 8
+  bulletStopDelay: 0
+  bulletResumeMoveDelay: 0
   onHitEffect: {fileID: 0}

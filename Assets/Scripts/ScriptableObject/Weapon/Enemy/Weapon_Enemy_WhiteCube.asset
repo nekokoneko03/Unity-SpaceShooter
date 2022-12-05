@@ -10,13 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 66bab3d07c1ccce4482dd251f43b731a, type: 3}
-  m_Name: SimpleWeapon 1
+  m_Name: Weapon_Enemy_WhiteCube
   m_EditorClassIdentifier: 
   icon: {fileID: 0}
-  name: simple
+  name: 
   target: 1
   shotType: 0
-  shotDelay: 0.5
+  shotDelay: 1
   burstCount: 0
   burstDelay: 0
   bulletCount: 0

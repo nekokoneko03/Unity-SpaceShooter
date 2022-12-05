@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 7654400790393330110}
   - component: {fileID: 7654400790393330109}
   m_Layer: 0
-  m_Name: EnemyTestWeapon
+  m_Name: Weapon_Enemy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -44,4 +44,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9e50e0d6e480c424cb16d9eb451dd883, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _stats: {fileID: 11400000, guid: 604eee5b2d87b544cbf7c76ba98be874, type: 2}
+  _stats: {fileID: 11400000, guid: 1509f0cb181431c459f1d21f31ca8d5f, type: 2}

@@ -10,15 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 66bab3d07c1ccce4482dd251f43b731a, type: 3}
-  m_Name: SimpleWeapon
+  m_Name: Weapon_PlayersLv2
   m_EditorClassIdentifier: 
   icon: {fileID: 0}
-  name: simple
+  name: "\u30D7\u30EC\u30A4\u30E4\u30FC\u306E2\u30EC\u30D9\u30EB\u306E\u6B66\u5668"
   target: 0
-  shotType: 0
-  shotDelay: 0.5
+  shotType: 1
+  shotDelay: 0.8
   burstCount: 0
   burstDelay: 0
-  bulletCount: 0
-  bulletAngle: 15
+  bulletCount: 2
+  bulletAngle: 3
   bulletStats: {fileID: 11400000, guid: 0c12e6391083b374094ff5e82fe82b20, type: 2}
